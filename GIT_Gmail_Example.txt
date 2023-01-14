@@ -1,0 +1,7 @@
+1. Open the Google Chrome browser
+
+2. Enter the URL
+
+3. Enter the Username and Password
+
+4. By default the mails will be shown in Inbox folder
