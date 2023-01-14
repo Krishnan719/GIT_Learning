@@ -5,3 +5,7 @@
 3. Enter the Username and Password
 
 4. By default the mails will be shown in Inbox folder
+
+5. Click Compose button, a new window gets open. There provide To, CC recipients, Subject and body then click the Send button
+
+6. Click the Sent option to check the mail is sent successfully
